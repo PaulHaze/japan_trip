@@ -4,7 +4,7 @@
 
 
 **Base:** Iroha Grand Hotel Matsumoto Ekimae  
-**Shape:** Friday midday arrival · Saturday in Matsumoto · Sunday departure south, with a Narai-juku stop pencilled in.
+**Shape:** Friday midday arrival · Saturday in Matsumoto · slow Sunday morning, then Kiso-Fukushima en route to Kyoto.
 
 Loose starting plan — enough structure to work from, with room for shops, side streets and spontaneous stops.
 
@@ -30,13 +30,14 @@ Loose starting plan — enough structure to work from, with room for shops, side
   - すし典 / https://maps.app.goo.gl/CCVQjmbLj9dExe5Z7
   - 鮪と鮮魚とおでんと國酒 河内屋 変態店 / https://maps.app.goo.gl/bmywpgf9jtSsQT69A
 
-## SUNDAY — Departure + Narai-juku
+## SUNDAY — Slow morning + Kiso-Fukushima → Kyoto
 
-- **Early morning — check out and head to Matsumoto Station.** Breakfast/coffee; aim for departure around **8 am**, subject to the onward plan.
-- **Provisional stop — Narai-juku.** Wander the historic main street, browse shops and have a snack or lunch.
-- **Continue south through the Kiso Valley toward Kyoto.** Leave trains, stop length and any other Kiso Valley stops undecided for now.
+- **Slow morning in Matsumoto.** Breakfast, check out and head to the station.
+- **10:51 — Shinano 8 → 11:30 Kiso-Fukushima.**
+- **Kiso-Fukushima — lunch and a wander.** Allow 1–2 hours depending on how you feel.
+- **12:30 or 13:30 — Shinano south → Nagoya → Nozomi → Kyoto.** Aim to arrive by **3–4 pm**.
 
-**Still to settle:** Friday/Saturday dinner bookings; Sunday trains, Narai-juku timing and luggage arrangements. Market timing above is carried over from the research notes; recheck when finalising.
+**Still to settle:** Friday/Saturday dinner bookings; Sunday onward train choice and luggage arrangements. Market timing above is carried over from the research notes; recheck when finalising.
 
 More detail: [Things to do](matsumoto-things-to-do.md) · [Food & drink](matsumoto-food-drink-recommendations.md)
 
