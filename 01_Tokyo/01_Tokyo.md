@@ -160,6 +160,8 @@ Time Out ranked Koenji #8 in its 2026 "world's coolest neighbourhoods" list — 
 
 ### Friday 27 November 2026
 Want to be in Matsumoto for lunch time (1pm) so need to plan our departure accordingly. Need to send bags on ahead this morning of departure too.
+**NOTE** We do not arrive in Kyoto until SUNDAY late evening. I assume that means that sending the bags from the hotel Friday morning is more than enough time.
+
 
 **TRAIN TRAVEL PLANS**
 
