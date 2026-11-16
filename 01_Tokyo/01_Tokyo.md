@@ -1,5 +1,8 @@
 This will be the Tokyo stage of the trip.
 
+**GENERAL NOTES**
+Uber works, also GO is apaprently a local version
+
 ## Day to Day
 
 ### Thursday 19 November 2026
@@ -46,28 +49,34 @@ Chill, then MAYBE walk up meguro river for dinner in Naka-meguro or ebisu, or ma
 ### Tuesday 24 November 2026
 Asakusa + Ginza day. Hit the temple early before the crowds, explore the area, get lunch (ramen or Hoppy Street), knives at Kama-Asa, then train down to Ginza for afternoon shopping. Sword museum scrapped — will find something similar in Kyoto.
 
-FOOD: 
-- Yuzu Lab - meant to be amazing ramen. 
-- Ichi ryu - Also good.
+
+**FINAL CHOICE:**
+- Asakusa early from Kaminarimon Gate. ETA 9.30am Explore the area, Hoppy St for LIGHT lunch (no point backtracking to Yuzu just for the ramen). Still got a lot of walking so dont want anything too heavy. Explore the kitchen and knife street, then train to Ginza for some high end shopping. Then hotel and DONE for the day. 
+
+**ROUTE**
+- Gotanda station - Asakausa station by Kaminarimon Gate (Asakusa line, 25 mins)
+- Explore area -> Hoppy St (lunch) -> Kappabashi -> Tawaramachi Station -> Ginza -> Gotanda/Home
+
+**HOPPY STREET SUGGESTIONS:**
+About 10-15 open-air izakayas spilling onto the street, two blocks west of Senso-ji. Most are cash only. No reservations — just pick one that looks good and sit down. For a light lunch, stick to skewers and small plates rather than the stews:
+- **Good light picks:** Yakitori skewers (¥100-300 each), edamame, karaage (fried chicken), gyoza. Easy to graze without getting weighed down.
+- **Skip for light lunch:** Motsu nikomi (offal stew) — it's the signature Hoppy Street dish but heavy. Save that for a drinking session.
+- **The drink:** Order a "Hoppy Set" — a mug of shochu with a bottle of Hoppy (a beer-like drink). It's the thing to do here. Around ¥500.
+- **Budget:** Most dishes ¥300-700, drinks ¥400-600. A light lunch for two with a couple of drinks: ~¥3,000-4,000.
+- **Timing note:** The street really comes alive in the evening (5pm+), but stalls do serve from lunchtime. Some stalls have irregular closing days — most should be open on a Tuesday but if a couple are shut just move to the next one.
+
+**KNIFE SHOP SUGGESTIONS**
+Kama-Asa is the main target but Kappabashi has 15+ knife shops. If you want to compare or browse:
+- **Kama-Asa (釜浅商店):** Your pick. Founded 1908, 1,000+ knives, English-speaking staff, free name engraving. Open 11:00-17:30. They only stamp the maker's mark, not their own name — purist approach. At 2-24-1 Matsugaya (southern end of the street).
+- **Kiwami (貴和美):** Worth a look if you want something high-end. Known for ZDP-189 steel blades (extremely hard, HRC 67-68). They let you test-cut in store. English-speaking staff, free engraving. Open 10:00-18:00. At 1-5-17 Nishiasakusa.
+- **Washindo (和心堂):** Biggest selection on the street — 1,000+ knives from makers across Japan. Specialises in kurouchi (black-forged) blades which look incredible. Multilingual staff (English, Chinese, Korean). Open 10:00-18:00.
+- **Hikari (日加利):** The one for beautiful handles — natural wood, stabilized wood, turquoise, deer antler. Also carries artisan knives and Kyoto natural whetstones. Open 10:00-18:00.
+- **Tips:** Bring your passport for tax-free (over ¥5,500). Ask to hold and test-cut before buying — grip and balance are personal. Budget: ¥5,000-15,000 for a solid home knife, ¥15,000-40,000 for professional grade. Knives must go in checked luggage, never carry-on — shops will wrap for travel.
 
 
-OTHER NOTES:
-- Kappabashi: Kama-Asa was specifically noted for Japanese knives (want to visit)
+
 
 **CLAUDE SUGGESTIONS**
-
-**Schedule:**
-
-| Time | What | Notes |
-|---|---|---|
-| 9:00-9:30 | Arrive Asakusa | Gotanda → Asakusa: JR Yamanote to Kanda, Ginza Line to Asakusa (~30 min) |
-| 9:30-10:15 | Senso-ji & Nakamise-dori | Hit the temple first while it's still quiet. Arrive via Kaminarimon Gate. |
-| 10:15-11:00 | Explore Asakusa side streets | Asakusa Underground Shopping Street (retro arcade near the station), wander the backstreets west of the temple |
-| 11:00-12:00 | Lunch | Yuzu Lab or Ichi Ryu for ramen, OR Hoppy Street (Hoppy-dori) for rowdy open-air yakitori and beers — two blocks west of Senso-ji |
-| 12:00-13:30 | Kappabashi Kitchen Town | 10 min walk west from Senso-ji. Kama-Asa (釜浅商店) at 2-24-1 Matsugaya, open 11:00-17:30, English-speaking staff. Budget time to browse ceramics and food sample shops too. |
-| 13:30-14:00 | Train to Ginza | Tawaramachi Stn (south end of Kappabashi) → Ginza Stn, Ginza Line direct, 15 mins |
-| 14:00-17:00 | Ginza shopping | See below for where to go |
-| 17:00-17:30 | Head back to Gotanda | Ginza Stn → Gotanda, ~20 min via Marunouchi Line to Tokyo then Yamanote, or just grab a taxi |
 
 **Ginza shopping — beauty & skincare for your wife:**
 - **Ginza Six (GSIX):** The main event. Massive luxury mall on Chuo-dori. The B1F and 1F beauty floors have all the premium Japanese brands in one place — SUQQU, THREE, DECORTÉ, Clé de Peau Beauté, SHIRO, ADDICTION. Testers everywhere, English-speaking beauty advisors. She could easily spend 1.5-2 hours here. Tax-free counter in the building.
@@ -79,49 +88,29 @@ OTHER NOTES:
 - **Itoya:** 12-floor stationery paradise. Japanese pens, washi tape, paper goods. Even non-stationery people get sucked in.
 - **Uniqlo Ginza (global flagship):** 12 floors. The Ginza-exclusive collabs and homewear floor are worth a look.
 - **Dover Street Market Ginza:** If she's into fashion/design — Comme des Garçons' multi-brand concept store.
+- **A compact Ginza browse:** Choose **Itoya** for beautiful stationery, paper and small gifts, then walk Chuo-dori through the main Ginza intersection. Finish with **either** Mitsukoshi's food basement **or** Ginza Six,
 
 **Suggested Ginza route:** GSIX first (biggest, most energy) → Shiseido The Store → Mitsukoshi if time → Itoya for a quick browse → done.
 
-**SOL SUGGESTIONS**
-
-**One date clash to resolve — Sword Museum:** Tuesday 24 November is the museum's holiday substitute closure day: Monday 23 is a national holiday, so the museum opens Monday and closes Tuesday. I would keep Asakusa on Tuesday and move just the sword visit to Wednesday at 09:30, then choose Ginza as Wednesday's main shopping stop. That preserves almost all of your daily shape. The Kotetsu/Sukehiro exhibition is a good fit for your dates, but needs an open day. [Museum exhibition and closure rules](https://www.touken.or.jp/museum/exhibition/exhibition.html), [official holiday calendar](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html).
-
-**Strong agreement with Claude:** Senso-ji → Hoppy Street → Kappabashi is a good progression. I would give Asakusa the late morning rather than invent another big activity to replace the closed museum. Hoppy Street suits your taste for lively local drinking, but treat it as a casual lunch-and-drink option rather than the only possible lunch.
-
-**My additions to the Asakusa walk:**
-
-- **Start with a photograph from above:** The free eighth-floor terrace at the Asakusa Culture Tourist Information Center, opposite Kaminarimon, looks along Nakamise toward Senso-ji. Allow 15–20 minutes, then cross to the gate and do the temple approach. This adds a different perspective without another journey. [Asakusa Tourism Federation](https://e-asakusa.jp/en/overview/4105).
-- **After the temple:** Browse west toward the Hoppy Street area, have lunch, then continue west to Kappabashi. Leave time for the small streets rather than adding a second major sightseeing destination.
-- **Protect the knife-shopping time:** Aim for Kama-Asa around 14:00–15:00 and allow an hour if you are seriously choosing a knife. Its published hours are **11:00–17:30**, at **2-24-1 Matsugaya**. Ask to handle a couple of sizes and discuss stainless versus carbon steel, care, sharpening and engraving collection time before buying. Kappabashi is west of the temple area, rather than simply south as the note above suggests. [Official store details](https://kama-asa.co.jp/en/pages/shops).
-
-**Small routing correction for whenever you visit the museum:** Ryogoku is on the Oedo/JR Sobu lines, not the Asakusa Line, so there is no direct one-stop Ryogoku → Asakusa service. An Oedo trip to Kuramae followed by an Asakusa Line connection is possible, but your proposed taxi to Kaminarimon is the simpler choice after a museum visit. [Toei's Kuramae interchange information](https://www.kotsu.metro.tokyo.jp/eng/subway_stations/kuramae.html).
-
-**Sumo:** I would only get up early with a specific stable's practice confirmed. The Fukuoka tournament finishes on **22 November**, just two days beforehand, so a Tokyo training session on the 24th needs direct confirmation; the tournament calendar alone does not establish when a stable resumes practice. [Official November tournament information](https://sumo.pia.jp/en/sumo11.jsp).
-
 ### Wednesday 25 November 2026
-Nightlife day so daytime is chill shopping in Togoshi-Ginza for local, maybe fancy Ginza if its worth it. Wife want to explore PROPER Ginza - is it too much?
+DAYTIME: Shopping and pottering around Togoshi-Ginza or Meguro River walk. Chill day with nothing particular locked in.
 
 Eureka for sake pairing and dinner 6.30/7. Then check out shibuya and or Shinjuku. If shibuya only then we go clubbing there as well, and do shinjuku alleyways last thing thursday. Most likely go straight to shinjuku from Eureka and make it Shinjuku only for nightlife night. 
 
-**CLAUDE SUGGESTIONS**
+EUREKA is BOOKED for 7.00pm. Will taxi from hotel to Eureka.
 
-**Ginza is now done on Tuesday** so Wednesday is genuinely free for a chill daytime. Togoshi-Ginza is perfect for a relaxed morning — one of Tokyo's longest shotengai (shopping streets) and very local: street food croquettes, little homeware shops, zero tourists. No need to trek to proper Ginza again. Take it easy, recharge at the hotel in the afternoon, then head out fresh for Eureka and a big Shinjuku night.
+After dinner, Taxi from restaurant to Omoide Yokocho
 
-**Shinjuku nightlife after Eureka:**
-- **Golden Gai:** The essential stop. 6 tiny alleys packed with 200+ micro-bars seating 5-8 people each. Some have cover charges (¥500-1,000), some don't — look for signs or ask. Many are themed (jazz, punk, film, etc). Go with the flow, don't plan specific bars. Gets busy after 9pm. Some bars are regulars-only — if you get turned away just try the next one.
-- **Omoide Yokocho (Piss Alley):** Right next to Shinjuku Station west exit. Tiny yakitori and ramen stalls under the tracks. Perfect for late-night eating between drinks. Gets smoky and atmospheric at night.
-- **Kabukicho area:** The big neon entertainment district. Fine to walk through and soak up the chaos. Robot Restaurant era is over but the energy is still wild. Good for bar-hopping along the edges — the touts on the main drag are best ignored.
-- **Order suggestion:** Eureka dinner → taxi/train to Shinjuku → Golden Gai (2-3 bars) → Omoide Yokocho for late snack → wander Kabukicho if you've still got energy.
+**SHINJUKU IDEAS**
+- Want to check out some crazy multi-level arcade that is an assault on the senses (LIGHTS! NOISE! WIN THINGS!): **Taito Station** is the one. (**GiGO Kabukicho** fallback)
+- **Godzilla Head:** On top of Hotel Gracery in Kabukicho. Best seen from the street below at night — it's lit up and looks great. You'll pass it naturally walking through Kabukicho.
+- **Don Quijote (Donki) Kabukicho:** The huge 24-hour discount store right in the middle of the neon chaos
+- **Piss alley (Omoide Yokocho)** for the photos Shinjuku Station west exit
+- **Golden Gai/Kabukicho** for the atmosphere and sights: https://maps.app.goo.gl/hBL1gxgE8PWH3bZWA
+- Omoide Yokocho photos → Kabukicho / Godzilla → Taito arcade → Golden Gai drinks
 
-**SOL SUGGESTIONS**
 
-**Yes to proper Ginza — give it a clear window:** I agree with Claude that it is worth seeing, especially since Ariane specifically wants it. My preference would be **Ginza as the day's main shopping outing**, with Togoshi-Ginza kept as an easy fallback. If you move the sword visit here, museum → lunch → 90 minutes in Ginza → hotel rest → Eureka is enough; trying to add a full Togoshi-Ginza outing as well would squeeze the rest out of your nightlife day.
 
-**A compact Ginza browse:** Choose **Itoya** for beautiful stationery, paper and small gifts, then walk Chuo-dori through the main Ginza intersection. Finish with **either** Mitsukoshi's food basement **or** Ginza Six, depending on whether food or fashion/design appeals more. This gives you a few actual things to browse rather than just expensive shop windows. Wednesday will be a normal traffic day, so don't expect the weekend pedestrianised boulevard. [Itoya flagship](https://www.ito-ya.co.jp/ext/store/ginza/ginza/index.html), [official Ginza area guide](https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html).
-
-**Protect the break before dinner:** Aim to be back at the hotel around 16:00, and let the confirmed Eureka booking set your departure time. I would not rely on the broad suggestion that everywhere central is quick to reach: allow a proper travel buffer to Nishiazabu, especially by taxi in the evening. There is no need to fit in another neighbourhood on the way.
-
-**Strong agreement on one nightlife district:** Eureka → Shinjuku makes sense. After a sake-pairing dinner, choose a couple of good stops rather than committing to every alley and a club. For a tidy walking progression, I would do **Omoide Yokocho first → Kabukicho neon → Golden Gai**, with the snack optional if dinner has filled you up. Claude's reverse order works too, but this groups the west-side stop before the east-side wandering. If dancing becomes the priority, choose the venue and check its **Wednesday** programme before deciding between Shinjuku and Shibuya; don't assume a midweek club night will deliver the atmosphere you want.
 
 ### Thursday 26 November 2026
 Late start, no firm plans, check out Nakano for watches and walk to Koenji from there for second hand shopping, find a cool jazz bar and/or cosy izakaya, dinner, then back to hotel and get ready to leave. Want advice on watch buying and other shopping in Nakano. Also good local cosy bars and shopping in Koenji. 
