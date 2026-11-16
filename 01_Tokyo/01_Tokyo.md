@@ -30,6 +30,24 @@ Tosei Hotel - Keikyū Main Line > Tachiaigawa Station
 
 https://maps.app.goo.gl/XyrqqwXiZES2dcGX8
 
+**NIGHTTIME SUGGESTIONS**
+
+**Bourbon Road (バーボンロード):** This is the move. A lantern-lit alley of roughly 60 tiny bars and izakaya running beneath the elevated Tokyu Ikegami Line tracks, west side of Kamata Station. Scruffy, loud, local, cheap — exactly the vibe you described. No plan needed: just walk in from the west exit and pick whatever looks good. Most places are standing or counter-only with 6-10 seats. Expect yakitori, grilled offal, whiskey, beer, and shochu. Cash is safest.
+- **Yakiton Buta Bancho (やきとん豚番長):** Standing grilled-offal and skewer bar right on Bourbon Road. Rowdy, smoky, pork skewers from about ¥100 each. A good first stop.
+- **The general approach:** Walk the full length first (it's short), then double back to whatever stall had the best energy. Saturday night will be busy — that's a feature, not a bug.
+- [Bourbon Road on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066454-d14747172-Reviews-Bourbon_Road-Ota_Tokyo_Tokyo_Prefecture_Kanto.html)
+- [Matcha Japan guide to Kamata](https://matcha-jp.com/en/10065)
+
+**Karaoke options:**
+- **Oden Bar TRAUMA:** The interesting one. Small local bar a short walk from the station that combines oden (made by a former two-star ryotei chef), all-you-can-drink sake for 90 minutes, and karaoke with headphones (apparently the only place in Japan that does this). Smoking allowed, shisha available. Intimate and weird — your wife will either love it or it'll be a great story. Can be booked on Expedia/KKday for about ¥3,000pp. [Detailed write-up](https://theabroadguide.com/tokyo-kamata-oden-sake-karaoke-bar-experience/)
+- **Big Echo (ビッグエコー) Kamata East Exit:** The reliable chain option if you want a proper private-room karaoke session. 1-minute walk from the east exit, open late. Book a room, order drinks to the room, sing until you can't. [Gurunavi listing](https://gurunavi.com/en/gd5n124/rst)
+- **Karaokekan (カラオケ館) Kamata West Exit:** Another chain, 2-minute walk from west exit. Dinner budget around ¥4,000. Good if Big Echo is full.
+
+**Suggested flow:** Izakaya dinner somewhere around the station → Bourbon Road for a couple of scruffy standing-bar stops → karaoke (TRAUMA for something unique, or Big Echo/Karaokekan for the classic experience) → stumble back to the Tosei.
+
+**Note:** The west exit also has hostess bars mixed in with touts outside — Kings Cross rules apply.
+
+
 ### Sunday 22 November 2026
 Possible onsen in morning (but probably not), drop bags at JR EAST METS, Gotanda, train to Bonzai museum, want to be in Bonzai area by 10am.
 
