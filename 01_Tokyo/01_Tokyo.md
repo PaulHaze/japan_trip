@@ -7,13 +7,14 @@ Uber works, also GO is apaprently a local version
 
 ### Thursday 19 November 2026
 Ariane Arrives.
-Restaurant for Thursday night:
+Restaurant for Thursday (and/or maybe Friday) night:
+蒲田 大衆居酒屋 焼き鳥美安 / https://maps.app.goo.gl/NkwkNTTLth7fU6J7A
+Yakitori Sakaba 55 / https://maps.app.goo.gl/Ag1sv9PyUnsLdeB96
 
-HOTEL: TOSEI 4 Chome-20-1 Kamata, Ota City, Tokyo 144-0052, Japan. Thursday - Sunday
-
+**HOTEL:** TOSEI 4 Chome-20-1 Kamata, Ota City, Tokyo 144-0052, Japan. Thursday - Sunday
 
 ### Friday 20 November 2026
-My arrival - late snack or drink somewhere near hotel
+My arrival - late snack or drink somewhere near hotel (as above)
 
 Spa's for my wife if I dont end up on her flight:
 - Shu. Beauty & Relax
@@ -23,7 +24,7 @@ Spa's for my wife if I dont end up on her flight:
 - Grand Raffine
 
 ### Saturday 21 November 2026
-Explore oi racecourse flea market, back to Kamata later afternoon, izakaya for dinner rowdy local bar for drinks after, maybe Karoke.
+Explore Oi racecourse flea market, back to Kamata later afternoon, izakaya for dinner rowdy local bar for drinks after, maybe Karoke.
 
 Leave early, want to be at market by 8.30/9am
 Tosei Hotel - Keikyū Main Line > Tachiaigawa Station
@@ -35,8 +36,6 @@ https://maps.app.goo.gl/XyrqqwXiZES2dcGX8
 **Bourbon Road (バーボンロード):** This is the move. A lantern-lit alley of roughly 60 tiny bars and izakaya running beneath the elevated Tokyu Ikegami Line tracks, west side of Kamata Station. Scruffy, loud, local, cheap — exactly the vibe you described. No plan needed: just walk in from the west exit and pick whatever looks good. Most places are standing or counter-only with 6-10 seats. Expect yakitori, grilled offal, whiskey, beer, and shochu. Cash is safest.
 - **Yakiton Buta Bancho (やきとん豚番長):** Standing grilled-offal and skewer bar right on Bourbon Road. Rowdy, smoky, pork skewers from about ¥100 each. A good first stop.
 - **The general approach:** Walk the full length first (it's short), then double back to whatever stall had the best energy. Saturday night will be busy — that's a feature, not a bug.
-- [Bourbon Road on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066454-d14747172-Reviews-Bourbon_Road-Ota_Tokyo_Tokyo_Prefecture_Kanto.html)
-- [Matcha Japan guide to Kamata](https://matcha-jp.com/en/10065)
 
 **Karaoke options:**
 - **Oden Bar TRAUMA:** The interesting one. Small local bar a short walk from the station that combines oden (made by a former two-star ryotei chef), all-you-can-drink sake for 90 minutes, and karaoke with headphones (apparently the only place in Japan that does this). Smoking allowed, shisha available. Intimate and weird — your wife will either love it or it'll be a great story. Can be booked on Expedia/KKday for about ¥3,000pp. [Detailed write-up](https://theabroadguide.com/tokyo-kamata-oden-sake-karaoke-bar-experience/)
@@ -45,24 +44,63 @@ https://maps.app.goo.gl/XyrqqwXiZES2dcGX8
 
 **Suggested flow:** Izakaya dinner somewhere around the station → Bourbon Road for a couple of scruffy standing-bar stops → karaoke (TRAUMA for something unique, or Big Echo/Karaokekan for the classic experience) → stumble back to the Tosei.
 
-**Note:** The west exit also has hostess bars mixed in with touts outside — Kings Cross rules apply.
-
-
 ### Sunday 22 November 2026
-Possible onsen in morning (but probably not), drop bags at JR EAST METS, Gotanda, train to Bonzai museum, want to be in Bonzai area by 10am.
+Taxi to JR EAST METS Gotanda, drop bags (confirm pre-check-in luggage storage beforehand). Easy afternoon — recover from Saturday night in Kamata.
 
-dinner in Gotanda evening
-- yakiniku futago Gotanda east exit（bbq japanese）
-大阪焼肉・ホルモン ふたご 五反田東口店
+MEGURO river walk most likely thing
+
+
+EBISU DINNER:
+- Ebisu Yaoya --- THIS ONE
+- Yakiniku 173 Mukouyama --- has dogs
+- Ebisu Yakiniku USON
+- WAGYU YAKINIKU TOKYO 渋谷店
+- 博多ほたる恵比寿店 / https://maps.app.goo.gl/wAAXut1YVR71QMFy6
+- 熟成和牛ステーキグリルド エイジング・ビーフ 中目黒店 / https://maps.app.goo.gl/PRpmDUTXGwETS2CTA
 
 HOTEL: 3 Chome-29-17 Shibuya, Tokyo 150-0002, Japan
 
-NEED TO: flesh out travel timing to JR EAST METS (will get a taxi), travel from Gotanda to Bonzai area (train platforms and times). Where to go in the Bonzai area. Is there anywhere to eat there? 
+**SUGGESTIONS**
+
+**Option 1 — Meguro River walk to Naka-Meguro & Ebisu**
+Walk south from Gotanda along the Meguro River toward Naka-Meguro (~30 mins, flat, tree-lined). Browse the cafes and shops in Naka-Meguro, then continue to Ebisu (~15 mins further) for dinner. A perfect low-effort afternoon after a big night.
+- **Dinner in Ebisu:** Ebisu has great casual dining. A few worth checking:
+  - **Ebisu no Yasubee (恵比寿のやすべえ):** Cheap and cheerful gyoza izakaya. Open from 3pm on weekends. ¥1,000-2,000pp.
+  - **Sumiyaki Kadota:** Charcoal-grilled fish, small counter spot. Made Tabelog's 2026 top 100. ¥6,000-8,000pp.
+  - **Tori Nago Ebisu:** Chicken specialist, casual. ~¥6,000-8,000pp dinner.
+
+**Option 2 — Togoshi-Ginza shotengai**
+Tokyo's longest shopping street (1.3km), one stop from Gotanda on the Tokyu Ikegami Line. A completely local, zero-tourist covered arcade. The thing to do is a croquette crawl — about 20 shops sell them with weird flavours (gyoza croquette, oden croquette). Also has **Togoshi Ginza Onsen** with natural black hot-spring water if you want a soak (¥100 for towel/soap set). Most shops 11:00-19:00.
+
+**Option 3 — Naka-Meguro to Daikanyama**
+Similar start to Option 1 but instead of continuing to Ebisu, turn off into Daikanyama — a quieter, design-focused neighbourhood with independent boutiques, good coffee, and Tsutaya Books (a beautiful bookshop/lounge). Then circle back to Gotanda for dinner at Futago.
+
+**Option 4 — Do nothing**
+Check into the hotel at 3pm, nap, shower, explore the lanes immediately around Gotanda Station for a beer, then Futago for dinner. No shame in a rest day before a full week.
+
+**SOL SUGGESTIONS — four easy Sunday alternatives**
+
+Pick **one**, leave the bags at the hotel, and come back for check-in/rest before Futago. These are alternatives to Claude's outings, rather than extra stops to combine with them.
+
+**Option 1 — Teien Art Museum: Art Deco, textiles and a little garden time**
+Take a taxi to the former Prince Asaka residence near Meguro. The building is part of the attraction, and the **Marimekko: Art of Printmaking** exhibition runs during your visit. Allow **1–2 hours**, with a short garden wander if you feel like it. My pick for an easy afternoon with something interesting for both of you. The Western Garden is closed for works, so don't go expecting the entire grounds to be accessible. Exhibition tickets use timed entry. [Official exhibition](https://www.teien-art-museum.ne.jp/en/exhibition/20261003-1220_marimekko/) · [Garden information](https://www.teien-art-museum.ne.jp/en/garden/).
+
+**Option 2 — Tokyo Photographic Art Museum, Ebisu**
+Two Yamanote stops from Gotanda, then a short walk to Yebisu Garden Place, or taxi straight there. Choose **one exhibition**, then sit down for coffee — about **90 minutes to two hours** altogether. The **50th-anniversary Kimura Ihei Photography Award exhibition** runs **31 October–23 November**, so Sunday fits. Particularly relevant to your photography interest, and an easy wet-weather choice. Sunday hours **10:00–18:00**; exhibition prices vary. [Current exhibitions](https://topmuseum.jp/current/) · [Visitor information](https://topmuseum.jp/guide/?lang=en).
+
+**Option 3 — Maxell Aqua Park Shinagawa**
+A short taxi ride to the Shinagawa Prince Hotel complex for an entirely indoor aquarium: illuminated jellyfish, the underwater tunnel and an optional seated dolphin performance. Allow **1½–2 hours**, then head back to Gotanda. Low physical effort, although this is the livelier option and Sunday may be busy. Adult admission **¥2,800**; check the day's performance times before buying. [Official aquarium information](https://www.aqua-park.jp/aqua/en/index.html).
+
+**Option 4 — Sengakuji: a small dose of samurai history**
+Take the **Asakusa Line two stops from Gotanda to Sengakuji**, then visit the temple and graves associated with the **47 ronin**. Allow **45–60 minutes**, or a little longer if you add the memorial museum. A compact historical outing rather than a long temple trail; it also complements your sword interest. Go early afternoon: the grounds close at **16:00**, and the memorial museum closes at **15:30**. [Official temple](https://sengakuji.or.jp/) · [Access and opening hours](https://sengakuji.or.jp/access/).
 
 ### Monday 23 November 2026
 Photograph festival in Meiji Jingu; Niiname-sai / Harvest Festival. Have late breakfast nearby. Go check out the cats in Takeshita st. Back to hotel.
 
-Chill, then MAYBE walk up meguro river for dinner in Naka-meguro or ebisu, or maybe just chill in Gotanda again. 
+
+dinner in Gotanda evening
+- yakiniku futago Gotanda east exit（bbq japanese）
+大阪焼肉・ホルモン ふたご 五反田東口店
 
 ### Tuesday 24 November 2026
 Asakusa + Ginza day. Hit the temple early before the crowds, explore the area, get lunch (ramen or Hoppy Street), knives at Kama-Asa, then train down to Ginza for afternoon shopping. Sword museum scrapped — will find something similar in Kyoto.
