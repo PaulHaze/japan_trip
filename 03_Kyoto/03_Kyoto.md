@@ -60,6 +60,20 @@ Three different lunch choices. Prices below are published figures checked on 17 
 
 ### Bonsai Stuff for the wife
 
+### Traditional raked Zen gardens — wife's must-do
+
+These are **karesansui**, or dry-landscape gardens: gravel/sand raked into patterns around larger stones. Given this specific interest, prioritise one of these above Murin-an, which offers a different kind of garden. Public admission lets you view the gardens; it does not guarantee seeing a gardener rake them.
+
+1. **Ryōan-ji — the classic choice.** Fifteen rocks arranged in a rectangular expanse of raked white gravel, viewed from the temple veranda. This is my first pick for the iconic traditional rock-garden experience. Allow about an hour for the garden and grounds; aim for opening, checking seasonal hours before travelling. In northwest Kyoto, so plan it as a dedicated outing rather than a quick stop from Sanjō. The temple website was unavailable during this check, so exact current fees/hours are not confirmed here. [Official Kansai tourism guide](https://www.the-kansai-guide.com/en/directory/item/12306/).
+
+2. **Daisen-in, Daitoku-ji — best fit with the bonsai day.** A historic dry landscape with stones forming a symbolic mountain-and-water scene, alongside raked gravel. Claude already mentions it, but this new preference makes it a priority rather than an optional sub-temple. Combine with Hōshun-in if its visiting arrangements work out. The temple's visitor sheet lists **¥500**, **09:00–17:00 March–November**, **09:00–16:30 December–February**, open year-round. **Photography is prohibited.** Allow 45–60 minutes. [Japan National Tourism Organization](https://www.japan.travel/en/spot/1157/) · [Temple visitor information](https://daisen-in.net/information.pdf).
+
+3. **Kennin-ji — convenient central alternative.** A Zen temple with a dry-landscape garden in the Gion area, approximately 20–25 minutes' walk from your hotel. A good option for an unhurried hour looking at the gardens and temple art during a Higashiyama outing. [Japan National Tourism Organization](https://www.japan.travel/en/spot/1182/).
+
+**SOL's recommendation:** Make **Ryōan-ji** a must-do, and include **Daisen-in** on the Daitoku-ji/bonsai day if you want two different interpretations. Visit lengths and walking times above are estimates; sources checked 17 November 2026.
+
+### Bonsai visits
+
 1. **Hōshun-in Bonsai Garden, Daitoku-ji** — The main event. Opened 2021, designed by Seiji Morimae, displaying museum-grade bonsai including *kichō bonsai* (formally registered masterpiece trees) in a proper Kyoto garden setting. The best bonsai viewing in Kyoto by a wide margin. **Appointment only — book now.** Inside the Daitoku-ji complex, so pair with Kōtō-in and the other sub-temples.
 
 2. **Kyoto Botanical Gardens — standing bonsai collection** — A large outdoor display of pines, maples and wisteria, free with garden entry (¥200). Not Hōshun-in's level but a good broad collection. On the Kamo River path, bikeable. Pairs with the Shimogamo/Ichijōji day.
